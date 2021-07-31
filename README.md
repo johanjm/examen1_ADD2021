@@ -24,5 +24,6 @@ Conección realizada entre CouchDB y MongoDB
 
 ![Captura de Pantalla 2021-07-30 a la(s) 20 21 21](https://user-images.githubusercontent.com/66568293/127724290-73fa5bdf-234d-4411-935e-e54befc10ba6.png)
 
+![Captura de Pantalla 2021-07-30 a la(s) 20 40 48](https://user-images.githubusercontent.com/66568293/127724854-e5169fd5-6cc7-46b7-a644-279a59b8538a.png)
 
 
