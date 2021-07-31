@@ -20,5 +20,9 @@ Captura de la base que se creó
 
 ![Captura de Pantalla 2021-07-30 a la(s) 18 02 41](https://user-images.githubusercontent.com/66568293/127719520-37c4b03e-520e-4c20-ac89-702559b918eb.png)
 
+Conección realizada entre CouchDB y MongoDB
+
+![Captura de Pantalla 2021-07-30 a la(s) 20 21 21](https://user-images.githubusercontent.com/66568293/127724290-73fa5bdf-234d-4411-935e-e54befc10ba6.png)
+
 
 
